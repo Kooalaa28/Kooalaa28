@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 Sobre mí
-Estudiante de **Matemáticas** y **Ingeniería Informática**, con experiencia en desarrollo (C/C++/Java/Python), administración de sistemas Linux y **DevOps**. Me interesa la **seguridad ofensiva/pentesting web** y la automatización de despliegues.
+Estudiante de **Matemáticas** y **Ingeniería Informática**, con experiencia en desarrollo (C/C++/Java/Python), administración de sistemas Linux y DevOps. Me interesa la **seguridad ofensiva/pentesting web** y la automatización de despliegues.
 
 ---
 
@@ -28,17 +28,6 @@ Estudiante de **Matemáticas** y **Ingeniería Informática**, con experiencia e
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00A3E0?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-3C3C3D?style=for-the-badge&logo=metasploit&logoColor=white)
-
----
-
-### 🐍 Snake de contribuciones
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kooalaa28/Kooalaa28/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Kooalaa28/Kooalaa28/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ---
 
