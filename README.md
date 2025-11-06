@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy <b>Ignacio</b> — <a href="https://github.com/Kooalaa28">@Kooalaa28</a></h1>
+<h1 align="center"><b>Ignacio Sánchez</b> — <a href="https://github.com/Kooalaa28">@Kooalaa28</a></h1>
 <h3 align="center">Matemáticas & Ingeniería Informática · Software · DevOps · Pentesting web</h3>
 
 ---
